@@ -1,6 +1,6 @@
-[submodule "opencxl-core"]
-	path = opencxl-core
-	url = https://github.com/opencxl/opencxl-core.git
-[submodule "opencxl-qemu"]
-	path = opencxl-qemu
-	url = https://github.com/opencxl/opencxl-qemu.git
+[submodule "opencis-core"]
+	path = opencis-core
+	url = https://github.com/opencis/opencis-core.git
+[submodule "opencis-qemu"]
+	path = opencis-qemu
+	url = git@github.com:opencis/opencis-qemu.git
