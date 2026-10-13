@@ -8,6 +8,8 @@ Setup and Run Instructions: https://www.opencis.io
 
 We now have a paper! You can find the paper here: https://ieeexplore.ieee.org/abstract/document/11668657
 
+Source code for the paper can be found at the [opencis-core/IEEE_CAL](https://github.com/opencis/opencis-core/tree/IEEE_CAL) branch.
+
 Below is the BibTeX entry for the paper. Please consider citing the paper if you use OpenCIS in your paper. Thank you!
 
 ```
